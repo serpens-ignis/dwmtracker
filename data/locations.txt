@@ -1,0 +1,215 @@
+DrakSlime  Strength Anger MonsterFarm Control
+SpotSlime  Memories Bewilder Bazaar1 Peace Control
+WingSlime  Goopi2 Control
+TreeSlime  Well Strength Control
+Snaily     Joy Control
+SlimeNite  Temptation Control
+Babble     Joy Control
+BoxSlime   MedalMan Control
+Slime      Beginner Control
+Healer    
+FangSlime 
+RockSlime  Labyrinth Control
+SlimeBorg  Reflection Control
+Slabbit    Goopi2 Control
+SpotKing   Judgement Control
+KingSlime 
+Metaly     Well Control
+Metabble   Control
+MetalKing 
+GoldSlime 
+DragonKid  Memories Bewilder Bazaar1 Peace OldMan
+Tortragon  Library OldMan
+Pteranod   Wisdom OldMan
+Gasgon     Goopi2 Happiness OldMan
+FairyDrak  Strength MonsterFarm OldMan
+LizardMan  Reflection OldMan
+Poisongon  Anger OldMan
+Swordgon   OldMan
+Dragon    
+MiniDrak   Talisman Bewilder OldMan
+MadDragon  OldMan
+Rayburn    OldMan
+Chamelgon  Labyrinth OldMan
+LizardFly  Judgement OldMan
+Andreal    OldMan
+KingCobra  Temptation OldMan
+Spikerous  OldMan
+GreatDrak  OldMan
+Crestpent  Bewilder Bazaar1 Peace OldMan
+WingSnake  OldMan
+Coatol    
+Orochi    
+BattleRex 
+SkyDragon 
+Divinegon 
+Tonguella  Wisdom Goopi3
+Almiraj    Peace Well Goopi3
+Catfly     Anger Goopi3
+PillowRat  Villager Memories Goopi3
+Saccer     Joy Goopi3
+GulpBeast  Goopi3
+Skullroo   MonsterFarm Goopi3
+WindBeast  Goopi3
+Anteater   Beginner Villager Talisman
+SuperTen   Goopi3
+IronTurt   Goopi3
+Mommonja   Temptation Goopi3
+HammerMan  Judgement Goopi3
+Grizzly    Reflection Goopi3
+Yeti       Goopi3
+MadGopher  Goopi2 Goopi3
+FairyRat   Memories Bazaar1 Peace Goopi3
+Unicorn    Goopi3
+Goategon   Goopi3
+WildApe    Library Goopi3
+Trumpeter  Goopi3
+KingLeo   
+DarkHorn  
+MadCat    
+BigEye    
+Picky      Villager Talisman Memories Mastermind
+Wyvern     Reflection Mastermind
+BullBird   Peace Bravery Well Mastermind
+FloraJay   Wisdom Mastermind
+DuckKite   Labyrinth Mastermind
+MadPecker  Joy Mastermind
+MadRaven   MonsterFarm Mastermind
+MistyWing  Temptation Mastermind
+Dracky     Beginner Mastermind
+BigRoost   Bewilder Bazaar1 Peace Mastermind
+StubBird   Happiness Mastermind
+LandOwl    Library Mastermind
+MadGoose   Judgement Mastermind
+MadCondor  Mastermind
+Blizzardy 
+Phoenix   
+ZapBird    Mastermind
+WhipBird   Mastermind
+FunkyBird 
+RainHawk  
+MadPlant   Wisdom Demolition
+FireWeed   Reflection Demolition
+FloraMan   Bravery Well Demolition
+WingTree   Strength Demolition
+CactiBall  Labyrinth Demolition
+Gulpple    Joy Demolition
+Toadstool 
+AmberWeed  Library Demolition
+Stubsuck   Villager Demolition
+Oniono     Happiness Demolition
+DanceVegi  Demolition
+TreeBoy    Judgement Demolition
+FaceTree  
+HerbMan   
+BeanMan    Bazaar1 Bravery Demolition
+EvilSeed   Bewilder Demolition
+ManEater   Demolition
+Snapper    Demolition
+Rosevine  
+Watabou   
+GiantSlug  Well Anger Ambition
+Catapila   Memories Bazaar1 Ambition
+Gophecada  Happiness Ambition
+Butterfly  MonsterFarm Ambition
+WeedBug    Judgement Ambition
+GiantWorm  Bravery Well Anger Ambition
+Lipsy     
+StagBug    Temptation Ambition
+ArmyAnt    Talisman Ambition
+GoHopper   Villager Ambition
+TailEater  Labyrinth Ambition
+ArmorPede  Wisdom Ambition
+Eyeder     Anger Ambition
+GiantMoth  Judgement Ambition
+Droll      Judgement Ambition
+ArmyCrab   Library Ambition
+MadHornet  Reflection Ambition
+HornBeet  
+Armorpion 
+Digster   
+Pixy       Happiness Extinction
+ArcDemon   Library Extinction
+AgDevil    Labyrinth Extinction
+Demonite   Bewilder Bazaar1 Bravery Extinction
+DarkEye    Temptation Extinction
+EyeBall    Joy Extinction
+SkulRider  Strength Extinction
+EvilBeast  Reflection Extinction
+1EyeClown  Bazaar1 Bravery Extinction
+Gremlin    Villager Extinction
+MedusaEye  Wisdom Goopi2 Extinction
+Lionex     Reflection Extinction
+GoatHorn   Extinction
+Orc        MedalMan Extinction
+Ogre       Extinction
+GateGuard 
+ChopClown 
+Grendal    Extinction
+Akubar    
+MadKnight 
+Gigantes  
+Centasaur 
+EvilArmor 
+Jamirus   
+Durran    
+Spooky     Talisman Sleep
+Skullgon   Sleep
+Putrepup   Anger Sleep
+RotRaven   Reflection Sleep
+Mummy      Joy Sleep
+DarkCrab   Sleep
+DeadNite   Happiness Sleep
+Shadow     Reflection Sleep
+Hork       Peace Bazaar1 Sleep
+Mudron     MonsterFarm Sleep
+NiteWhip   MedalMan Sleep
+MadSpirit  Library Sleep
+WindMerge  Labyrinth Sleep
+Reaper     MedalMan Sleep
+DeadNoble  Sleep
+WhiteKing 
+BoneSlave  Peace Well Sleep
+Skeletor   Sleep
+Servant   
+Copycat   
+JewelBag   Reflection Bazaar2
+EvilWand   Reflection Bazaar2
+MadCandle  Goopi2 Bazaar2
+CoilBird   Peace Bazaar2
+Facer      MonsterFarm Wisdom Bazaar2
+SpikyBoy   Happiness Temptation Bazaar2
+MadMirror  Bazaar2
+RogueNite  MedalMan Bazaar2
+Goopi      Talisman Memories Bazaar2
+Voodoll    Bazaar2
+MetalDrak  Bazaar2
+Balzak     Bazaar2
+SabreMan   Bravery Bazaar2
+CurseLamp  Library Bazaar2
+Roboster   Bazaar2
+EvilPot   
+Gismo      MedalMan Labyrinth Bazaar2
+LavaMan   
+IceMan    
+Mimic     
+MudDoll    Well Strength Bazaar2
+Golem     
+StoneMan  
+BombCrag   Bazaar2
+GoldGolem 
+DracoLord1
+DracoLord2
+Hargon    
+Sidoh     
+Baramos   
+Zoma      
+Pizzaro   
+Esterk    
+Mirudraas1
+Mirudraas2
+Mudou     
+DeathMore1
+DeathMore2
+DeathMore3
+DarkDrium 
