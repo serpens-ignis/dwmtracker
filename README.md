@@ -1,6 +1,8 @@
 # Dragon Warrior Monsters Tracker
 
-The Dragon Warrior Monsters Tracker is a desktop application made to assist in DWM playthroughs. With it, you can:
+The Dragon Warrior Monsters Tracker is a desktop application made to assist in DWM playthroughs.
+
+![sample](/res/preview.png?raw=true)
 
 - Keep track of your farm, check your monsters and their stats at any given time;
 - See your farm's breeding possibilities by result;
